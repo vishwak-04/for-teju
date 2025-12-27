@@ -4,9 +4,9 @@ body {
   min-height: 100vh;
   background: linear-gradient(
   180deg,
-  #cfe2ff 30%,
-  #e4efff 65%,
-  #f5f9ff 80%
+  #cfe2ff 70%,
+  #e4efff 100%,
+  #f5f9ff 0%
 );
 
   font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
